@@ -26,3 +26,7 @@ code .
 ## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız
+
+## Lisans
+
+[MIT Lisansı](https://opensource.org/licenses/MIT)
