@@ -9,3 +9,14 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 ```sh
 git clone https://github.com/Seda-Erten/kodluyoruzilkrepo.git
 ```
+
+## Usage
+
+Projeyi cloneladıktan sonra aşağıdaki adımları takip edin:
+
+Linux için:
+
+```sh
+cd kodluyoruzilkrepo
+code .
+```
