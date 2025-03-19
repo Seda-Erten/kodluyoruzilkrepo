@@ -29,4 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Lisans
 
-[MIT Lisansı](https://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT)
